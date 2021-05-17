@@ -32,21 +32,21 @@ Since we only replaced the math and reading scores, parameters like "Total Schoo
 * As shown in **Fig. 3 and 4**, the percent who passed math, reading, and both standardized tests for Thomas High School decreased by ~25 -30% across all those categories when 9th grade scores were removed, but 9th grade students were still included in total student count.
 
 **Fig. 6** Removal of THS 9th grade scores and inclusion of only 10th - 12th graders. 
-* When only 10th-12th graders are considered in the student count, Thomas High school maintained it's position in the top 5 performing schools in the district with an overall passing percentage of ~90%. 
+* When only 10th-12th graders are considered in the student count, Thomas High school maintained its position in the top 5 performing schools in the district with an overall passing percentage of ~90%. 
 
 ### Effect of Budget
 **Fig. 6** Budget and scores
 
 <img width="767" alt="budget" src="https://user-images.githubusercontent.com/45336910/118427211-b0102900-b69a-11eb-8319-14d4c41d5f05.png">
 
-Analysis shows that an schools that spend less money per student appear to have higher average scores and a higher percentage of overall passing. Thomas High School, outperforms other schools that spend similarly to it ($630-644) with an average percent passing of ~90 as shown in **Fig. 6**.
+Analysis shows that schools that spend less money per student appear to have higher average scores and a higher percentage of overall passing. Thomas High School, outperforms other schools that spend similarly to it ($630-644) with an average percent passing of ~90 as shown in **Fig. 6**.
 
 ### Effect of School size
 **Fig. 7 School size and scores**
 
 <img width="696" alt="school_size" src="https://user-images.githubusercontent.com/45336910/118427628-a935e600-b69b-11eb-8f02-5191376ab16c.png">
 
-Thomas High school was categrozied as a medium size school with 1,000-2,000 students. When the metrics and scores in **Fig. 6** are considered, Thomas High School performed similarly to other schools its size (**Fig. 7**). Indeed, smaller schools tended to have better average scores, but the difference between small and medium sizes is negligible. 
+Thomas High school was categrozied as a medium size school with 1,000-2,000 students. When the metrics and scores in **Fig. 6** are considered, Thomas High School performed similarly to other schools its size (**Fig. 7**). Indeed, smaller schools appear to have better average scores, but the difference between small and medium sizes is negligible. 
 
 ### Effect of School Type
 **Fig. 8 Charter vs District and scores**
