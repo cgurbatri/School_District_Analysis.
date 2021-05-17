@@ -55,7 +55,7 @@ Thomas High school was categrozied as a medium size school with 1,000-2,000 stud
 
 Charter schools (like Thomas High School) drastically outperform district type schools as shown in **Fig. 8** with ~40% more students passing overall. In fact all top 5 performing schools were charter schools and all bottom 5 performing schools were district-type schools.
 
-### Grade Level
+### Effect of Grade Level
 **Fig. 9 Average math score by grade**
 
 <img width="270" alt="math_scores_by_grade" src="https://user-images.githubusercontent.com/45336910/118428480-8dcbda80-b69d-11eb-8847-0eceaca474e1.png">
