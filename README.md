@@ -13,7 +13,7 @@ The district uncovered some academic dishonesty at Thomas High School (THS) amon
 
 <img width="632" alt="District_summary_includes_THS_9th" src="https://user-images.githubusercontent.com/45336910/118423907-1cd3f500-b694-11eb-964a-3181f6a52050.png">
 
-**Fig. 2** After to THS 9th grade student score removal
+**Fig. 2** After THS 9th grade student score removal
 
 <img width="631" alt="District_summary_removes_THS_9th" src="https://user-images.githubusercontent.com/45336910/118423828-e4ccb200-b693-11eb-81cd-2091970a3f4d.png">
 
