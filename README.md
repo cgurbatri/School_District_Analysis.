@@ -26,7 +26,7 @@ Since we only replaced the math and reading scores, parameters like "Total Schoo
 
 <img width="910" alt="school_summary_includes_THS_9th" src="https://user-images.githubusercontent.com/45336910/118424344-15f9b200-b695-11eb-81c9-7f9de88ebe84.png">
 
-**Fig. 4** After to THS 9th grade student score removal
+**Fig. 4** After THS 9th grade student score removal
 <img width="902" alt="school_summary_removes_THS_9th" src="https://user-images.githubusercontent.com/45336910/118425212-b56b7480-b696-11eb-91ea-49b1e26f349d.png">
 
 * As shown in **Fig. 3 and 4**, the percent who passed math, reading, and both standardized for Thomas High School decreased by ~25 -30% across all those categories when 9th grade scores were removed, but students were still included in total student count.
