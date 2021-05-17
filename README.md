@@ -10,9 +10,11 @@ The district uncovered some academic dishonesty at Thomas High School among the 
 ### District School Summary 
 
 **Fig. 1** Prior to THS 9th grade student score removal
+
 <img width="632" alt="District_summary_includes_THS_9th" src="https://user-images.githubusercontent.com/45336910/118423907-1cd3f500-b694-11eb-964a-3181f6a52050.png">
 
 **Fig. 2** After to THS 9th grade student score removal
+
 <img width="631" alt="District_summary_removes_THS_9th" src="https://user-images.githubusercontent.com/45336910/118423828-e4ccb200-b693-11eb-81cd-2091970a3f4d.png">
 
 Since we only replaced the math and reading scores, parameters like "Total Schools, Total students, Total Budget" will remain the same, as is shown in **Fig 1 and 2**. In fact, the avaerage scores and percent passing metrics remain relatively similar as well. While removing the scores of those 461 students, slightly decreased overall average scores and the percent of students who had passing math and reading scores, the affect is less than a percentage. **We can therefore conclude that the district summary was minimally affected across all metrics**
@@ -21,6 +23,7 @@ Since we only replaced the math and reading scores, parameters like "Total Schoo
 ### School Summary 
 
 **Fig. 3** Prior to THS 9th grade student score removal
+
 <img width="910" alt="school_summary_includes_THS_9th" src="https://user-images.githubusercontent.com/45336910/118424344-15f9b200-b695-11eb-81c9-7f9de88ebe84.png">
 
 **Fig. 4** After to THS 9th grade student score removal
@@ -39,6 +42,7 @@ Analysis shows that an schools that spend less money per student appear to have 
 
 ### Effect of School size
 **Fig. 7 School size and scores**
+
 <img width="696" alt="school_size" src="https://user-images.githubusercontent.com/45336910/118427628-a935e600-b69b-11eb-8f02-5191376ab16c.png">
 
 Thomas High school was categrozied as a medium size school with 1,000-2,000 students. When the metrics and scores in **Fig. 6** are considered, Thomas High School performed similarly to other schools its size (**Fig. 7**). Indeed, smaller schools tended to have better average scores, but the difference between small and medium sizes is negligible. 
