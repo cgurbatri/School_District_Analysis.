@@ -36,6 +36,7 @@ Since we only replaced the math and reading scores, parameters like "Total Schoo
 
 ### Effect of Budget
 **Fig. 6** Budget and scores
+
 <img width="767" alt="budget" src="https://user-images.githubusercontent.com/45336910/118427211-b0102900-b69a-11eb-8319-14d4c41d5f05.png">
 
 Analysis shows that an schools that spend less money per student appear to have higher average scores and a higher percentage of overall passing. Thomas High School, outperforms other schools that spend similarly to it ($630-644) with an average percent passing of ~90 as shown in **Fig. 6**.
@@ -49,15 +50,18 @@ Thomas High school was categrozied as a medium size school with 1,000-2,000 stud
 
 ### Effect of School Type
 **Fig. 8 Charter vs District and scores**
+
  <img width="652" alt="school_type" src="https://user-images.githubusercontent.com/45336910/118427922-4a24a100-b69c-11eb-91e0-1db49c835114.png">
 
 Charter schools (like Thomas High School) drastically outperform district type schools as shown in **Fig. 8** with ~40% more students passing overall. In fact all top 5 performing schools were charter schools and all bottom 5 performing schools were district-type schools.
 
 ### Grade Level
 **Fig. 9 Average math score by grade**
+
 <img width="270" alt="math_scores_by_grade" src="https://user-images.githubusercontent.com/45336910/118428480-8dcbda80-b69d-11eb-8847-0eceaca474e1.png">
 
 **Fig. 10 Average reading score by grade**
+
 <img width="285" alt="reading_scores_by_grade" src="https://user-images.githubusercontent.com/45336910/118428515-9e7c5080-b69d-11eb-8f34-2d3a0050ed9d.png">
 
 Student grade level does not affect average scores as much as the school attended and other aforementioned metrics. Average math scores and reading scores are shown in **Fig. 9 and 10** respectively. 
