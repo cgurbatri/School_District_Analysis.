@@ -29,10 +29,10 @@ Since we only replaced the math and reading scores, parameters like "Total Schoo
 **Fig. 4** After THS 9th grade student score removal
 <img width="902" alt="school_summary_removes_THS_9th" src="https://user-images.githubusercontent.com/45336910/118425212-b56b7480-b696-11eb-91ea-49b1e26f349d.png">
 
-* As shown in **Fig. 3 and 4**, the percent who passed math, reading, and both standardized for Thomas High School decreased by ~25 -30% across all those categories when 9th grade scores were removed, but students were still included in total student count.
+* As shown in **Fig. 3 and 4**, the percent who passed math, reading, and both standardized tests for Thomas High School decreased by ~25 -30% across all those categories when 9th grade scores were removed, but 9th grade students were still included in total student count.
 
 **Fig. 6** Removal of THS 9th grade scores and inclusion of only 10th - 12th graders. 
-* When only 10th-12th graders are considered in the student count, Thomas High school maintained it's position in the top 5 performing school's in the district with an overall passing percentage of ~90%. 
+* When only 10th-12th graders are considered in the student count, Thomas High school maintained it's position in the top 5 performing schools in the district with an overall passing percentage of ~90%. 
 
 ### Effect of Budget
 **Fig. 6** Budget and scores
